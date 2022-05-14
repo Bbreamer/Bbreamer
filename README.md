@@ -29,4 +29,25 @@ and I had even been a part of a advertisment!
 
 
 <img src="https://user-images.githubusercontent.com/96221471/168417299-03aeb99d-5fb6-4b6d-b297-a85041c17439.jpg" alt="Chess advertisment1" style="width:500px;height:600x;">
-<img src="https://user-images.githubusercontent.com/96221471/168417301-df3263aa-5d80-40ee-8655-27babd40182b.jpg" alt="Chess advertisment" style="width:50px;height:600x;">
+<img src="https://user-images.githubusercontent.com/96221471/168417301-df3263aa-5d80-40ee-8655-27babd40182b.jpg" alt="Chess advertisment" style="width:500px;height:600x;">
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/96221471/168417615-383636df-5911-4447-9c53-a9202884e6f8.jpg" alt="FLL CHAMP1" style="width:500px;height:600x;">
+<img src="https://user-images.githubusercontent.com/96221471/168417618-9ca67d13-31c8-4254-97a7-fa8b5ffce700.jpg" alt="Certificate" style="width:500px;height:600x;">
+<img src="https://user-images.githubusercontent.com/96221471/168417623-73e477e1-b597-480c-a0d8-ddc55a019492.jpg" alt="NJDS" style="width:500px;height:600x;">
+<img src="https://user-images.githubusercontent.com/96221471/168417626-ed8e8bcb-1ce4-41ad-90e8-35f3c181f2c7.jpg" alt="Tons of medals" style="width:500px;height:600x;">
+<img src="https://user-images.githubusercontent.com/96221471/168417628-159cd541-40df-4c41-b744-266e08247403.jpg" alt="TBG NRC" style="width:500px;height:600x;">
+<img src="https://user-images.githubusercontent.com/96221471/168417629-7e0d4d7e-260d-49d6-9ca8-a00c2fc43984.jpg" alt="Taekwondo" style="width:500px;height:600x;">
+<img src="" alt="" style="width:500px;height:600x;">
+
+
+
+
+
+
+
+
+
