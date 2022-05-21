@@ -19,9 +19,10 @@
 - Modelling
 - Videography & Editing
 
-### 3D Printing
----> Insert Picture here <---
-Here is some of the things I printed
+### 3D Printing!
+
+<img src="https://user-images.githubusercontent.com/96221471/169644271-abe2f300-a2f6-4793-bc88-bb734032f16a.png" alt="among us" style="width:500px;height:600x;">
+Here is some of the things I printed, such as minecraft creepers, minecraft slimes and Among Us Figurines.
 
 ### Chess
 My team and I earned 3rd in the nation and 2nd in south zone        
@@ -72,4 +73,9 @@ Unfortunately, this year we had been deducted 100 POINTS! Because of this, we on
  ### Coding
  When I was 5 years old, my dad showed me how to program in scratch, a simple coding platform. I immediately got hooked to it and coded tons of projects, such as a platformer: https://scratch.mit.edu/projects/680164940/
 
-
+ After that, I thaught my friends on how to do scartch.
+ 
+### Videography and Editing
+ 
+Here is some videos that I had edited: <Insert Video Here>
+I also created some minecraft animations on a software call mine-imator
