@@ -32,9 +32,11 @@ and I had even been a part of a advertisment!
 <img src="https://user-images.githubusercontent.com/96221471/168417299-03aeb99d-5fb6-4b6d-b297-a85041c17439.jpg" alt="Chess advertisment1" style="width:400px;height:400x;">
 <img src="https://user-images.githubusercontent.com/96221471/168417301-df3263aa-5d80-40ee-8655-27babd40182b.jpg" alt="Chess advertisment" style="width:400px;height:500x;">
 
-I first started in NJDS, the national junior development squad, when I won an online chess tournament called the 72nd National Schools Individual Chess Championships.
+I first started in NJDS, the national junior development squad, when I won an chess tournament.
 
 <img src="https://user-images.githubusercontent.com/96221471/168417623-73e477e1-b597-480c-a0d8-ddc55a019492.jpg" alt="NJDS" style="width:300px;height:400x;">
+
+After that, I participated in other competitons, getting me into HPI, high performance intermediate level.
 
 ### Modelling
 Once, I tried a 3D modelling software called "Blender"
@@ -52,18 +54,22 @@ and in this team, I won champion in robot performance in FLL 2020
 <img src="https://user-images.githubusercontent.com/96221471/169024135-e75ded6f-6a6c-4552-b557-fe043c4245c6.png" alt="Robot performance award" style="width:500px;height:500x;">
 
 <img src="https://user-images.githubusercontent.com/96221471/169025428-859dd451-fa2e-4199-9239-416cea995dd6.png" alt="Awards" style="width:350px;height:230px;">
-<img src="https://user-images.githubusercontent.com/96221471/168417615-383636df-5911-4447-9c53-a9202884e6f8.jpg" alt="FLL CHAMP1" style="width:300px;height:500x;">
 
-After that, we participated in NRC, National Robotics Competition winning a TON of awards, such as <Insert Award Name here>
+After that, we participated in NRC, National Robotics Competition winning a TON of awards, such as Judges award
 
 <img src="https://user-images.githubusercontent.com/96221471/168417626-ed8e8bcb-1ce4-41ad-90e8-35f3c181f2c7.jpg" alt="Tons of medals" style="width:500px;height:600x;">
 
+Unfortunately, this year we had been deducted 100 POINTS! Because of this, we only managed to win 2nd place in Robot Performance. 😥
+ 
 <img src="https://user-images.githubusercontent.com/96221471/168417901-149a6b03-6dc4-4146-a5ad-9f225a4df448.jpg" alt="FLL 2022" style="width:500px;height:600x;">
 
 ### Teakwondo
- I have
+ I am a junior black belt, the highest rank I can get, because black belt is only given to those above 18. I went for a team competition and I managed to win!
 
   <img src="https://user-images.githubusercontent.com/96221471/168417629-7e0d4d7e-260d-49d6-9ca8-a00c2fc43984.jpg" alt="Taekwondo" style="width:500px;height:600x;">
 <img src="" alt="" style="width:500px;height:600x;">
+ 
+ ### Coding
+ When I was 5 years old, my dad showed me how to program in scratch, a simple coding platform. I immediately got hooked to it and coded tons of projects, such as a platformer: https://scratch.mit.edu/projects/680164940/
 
 
