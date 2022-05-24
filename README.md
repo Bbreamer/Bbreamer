@@ -9,7 +9,7 @@
 - I enjoy playing like any other kid, mostly online. With my friends and family, I play video games together with them minecraft, roblox, and other games.
 - Reading fiction books, such as Tintin, Asterix and Obelix, Geronimo Stilton, and all of Roald Dahl's books. ( They are very good! )
 - Playing chess
-- Learning wierd stuff, such as learning pi: 3.1415926535897932384626433 ( All I currently know ) and as I aspire to be the top of the top gamer, I learnt clicking methods like drag clicking, butterfly clicking, jitter clicking, and autoclicking.
+- Learning wierd stuff, such as learning pi: 3.1415926535897932384626433 ( All I currently know ), pneumonoultramicroscopicsilicovolcanoconiosis, the longest word in the dictionary which is a lung disease and as I aspire to be the top of the top gamer, I learnt clicking methods like drag clicking, butterfly clicking, jitter clicking, and autoclicking.
 
 ## My interests
 - Coding
@@ -44,9 +44,7 @@ Once, I tried a 3D modelling software called "Blender"
 As I had no idea of to use blender, I searched up a tutorial on how to make a simple donut, and here's the result!
 
 <img src="https://user-images.githubusercontent.com/96221471/169031802-56031a66-224b-4426-b248-e9d1bc06dd15.jpg" alt="Blender Donut" style="width:500px;height:600x;">
-Not long after that, my dad, who always sees me playing a game called "Minecraft" introduced me to Mine-amator.
-It was a software that allowed me to create minecraft animations, so I started creating animations, such as:
-<Insert Animation Here>
+
 
 ### Robotics
 Together with my brothers, we formed a team called "Team TBG"
@@ -78,4 +76,6 @@ Unfortunately, this year we had been deducted 100 POINTS! Because of this, we on
 ### Videography and Editing
  
 Here is some videos that I had edited: <Insert Video Here>
-I also created some minecraft animations on a software call mine-imator
+Not long after that, my dad, who always sees me playing a game called "Minecraft" introduced me to Mine-amator.
+It was a software that allowed me to create minecraft animations, so I started creating animations, such as:
+<Insert Animation Here>
