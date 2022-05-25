@@ -54,7 +54,7 @@ and in this team, I won champion in robot performance in FLL 2020
 
 <img src="https://user-images.githubusercontent.com/96221471/169025428-859dd451-fa2e-4199-9239-416cea995dd6.png" alt="Awards" style="width:350px;height:230px;">
 
-After that, we participated in NRC, National Robotics Competition winning a TON of awards, such as Judges award
+After that, we participated in NRC, National Robotics Competition winning a TON of awards, such as Judges award, Championship award ( Silver ), Best Content Award ( Gold ), and robot performance award ( Silver ).
 
 <img src="https://user-images.githubusercontent.com/96221471/168417626-ed8e8bcb-1ce4-41ad-90e8-35f3c181f2c7.jpg" alt="Tons of medals" style="width:500px;height:600x;">
 
@@ -71,11 +71,20 @@ Unfortunately, this year we had been deducted 100 POINTS! Because of this, we on
  ### Coding
  When I was 5 years old, my dad showed me how to program in scratch, a simple coding platform. I immediately got hooked to it and coded tons of projects, such as a platformer: https://scratch.mit.edu/projects/680164940/
 
- After that, I thaught my friends on how to do scartch.
+ After that, I thaught my friends on how to do scratch.
  
+
+
+
+
 ### Videography and Editing
  
-Here is some videos that I had edited: <Insert Video Here>
+Here is some videos that I had edited: 
+
+https://user-images.githubusercontent.com/96221471/170277435-6054c80b-c56a-41f4-8999-e2626c179975.mp4
+
+https://user-images.githubusercontent.com/96221471/170277457-3a92dac2-89a3-4152-b2c7-643843c7d2d8.mp4
+
 Not long after that, my dad, who always sees me playing a game called "Minecraft" introduced me to Mine-amator.
 It was a software that allowed me to create minecraft animations, so I started creating animations, such as:
 <Insert Animation Here>
